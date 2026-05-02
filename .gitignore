@@ -1,0 +1,23 @@
+# Gradle / Android build output
+.gradle/
+build/
+*/build/
+
+# Local machine config
+local.properties
+.idea/
+*.iml
+
+# Android Studio generated folders
+.cxx/
+.externalNativeBuild/
+captures/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Local debug screenshots exported during development
+/*.jpg
+/*.png
+!/drop.jpg

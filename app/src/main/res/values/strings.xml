@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fuckissues</string>
+    <string name="home_title">fuckissues</string>
+    <string name="new_task">新建任务</string>
+    <string name="task_title_hint">例如：给 Claude Code 接入 DeepSeek</string>
+    <string name="create">创建</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="add_step">添加问题</string>
+    <string name="problem_label">遇到的问题</string>
+    <string name="solution_label">解决方法</string>
+    <string name="problem_hint">例如：找不到 settings 文件</string>
+    <string name="solution_hint">例如：在 Linux.do 搜索找到了位置</string>
+    <string name="mark_completed">标记完成</string>
+    <string name="mark_in_progress">标记进行中</string>
+    <string name="ai_analysis">AI 分析</string>
+    <string name="analyzing">AI 正在分析中...</string>
+    <string name="settings">设置</string>
+    <string name="api_key">API Key</string>
+    <string name="base_url">Base URL</string>
+    <string name="model">Model</string>
+    <string name="confirm_delete">确定要删除「%s」吗？所有相关步骤也将被删除。</string>
+    <string name="empty_home">记录你解决问题的过程</string>
+    <string name="empty_steps">还没有添加问题\n点击下方按钮开始记录</string>
+    <string name="status_completed">已完成</string>
+    <string name="status_in_progress">进行中</string>
+</resources>
